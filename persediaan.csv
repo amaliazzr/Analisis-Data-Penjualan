@@ -1,0 +1,11 @@
+Kode Barang,Nama Barang,Kategori,Stok Awal,Pembelian,Penjualan,Stok Akhir
+B001,Produk A,Elektronik,100,50,60,90
+B002,Produk B,Elektronik,200,30,40,190
+B003,Produk C,Elektronik,150,40,45,145
+B004,Produk D,Elektronik,80,25,35,70
+B005,Produk E,Elektronik,120,60,50,130
+B006,Produk F,Elektronik,90,35,30,95
+B007,Produk G,Elektronik,110,45,40,115
+B008,Produk H,Elektronik,130,50,55,125
+B009,Produk I,Elektronik,170,55,60,165
+B010,Produk J,Elektronik,140,60,65,135
