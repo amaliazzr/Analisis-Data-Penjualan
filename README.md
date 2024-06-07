@@ -10,7 +10,6 @@ Dari grafik ini, dapat dilihat apakah ada peningkatan atau penurunan penjualan p
 	Grafik ini membantu melihat tren pembelian selama periode waktu yang diberikan.
 ![2a](https://github.com/amaliazzr/Analisis-Data-Penjualan/assets/152155151/711b5867-0ae2-46dd-8410-962febf5a064)
 
- ![2b](https://github.com/amaliazzr/Analisis-Data-Penjualan/assets/152155151/153d566e-60eb-4503-bc50-c60d75edf1cd)
 ## Pertanyaan 2b
 **Apakah ada pola pembelian dari supplier tertentu?**
 	Grafik ini menampilkan pola pembelian dari masing-masing supplier.
