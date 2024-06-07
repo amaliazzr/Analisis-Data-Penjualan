@@ -1,3 +1,17 @@
+## Langkah membuka python via Visual Studio Code di terminal
+1. pip install pandas matplotlib seaborn
+2. python akuntansi.py
+3. python pertanyaan_1.py
+4. python pertanyaan_2a.py
+5. python pertanyaan_2b.py
+6. python pertanyaan_3a.py
+7. python pertanyaan_3b.py
+8. python pertanyaan_4a.py
+9. python pertanyaan_4b.py
+10. python pertanyaan_5.py
+11. python pertanyaan_6.py
+12. python pertanyaan_7.py
+
 ## Pertanyaan 1 
  **Bagaimana tren penjualan produk A selama periode 3 bulan?**
   Sumbu x menunjukkan tanggal, sementara sumbu y menunjukkan jumlah penjualan.
